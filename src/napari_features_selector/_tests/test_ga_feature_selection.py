@@ -8,8 +8,8 @@ from napari_features_selector._ga_feature_selection import FeatureSelectionGA
 def feature_selection_ga():
     # todo: file path is harcoded need to change this one
     return FeatureSelectionGA(
-        "/home/kumars/git_repos/napari-features-selection/src/"
-        "napari_features_selection/_tests/testGA.csv",
+        "/home/kumars/git_repos/napari-features-selector/src"
+        "/napari_features_selector/_tests/testGA.csv",
         "label",
         None,
     )
