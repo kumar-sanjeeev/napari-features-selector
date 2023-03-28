@@ -7,4 +7,4 @@ contributions:
       title: Genetic Algorithm
   widgets:
     - command: napari-features-selector.gui_GA
-      display_name: Testing
+      display_name: Testing - GA Widget
