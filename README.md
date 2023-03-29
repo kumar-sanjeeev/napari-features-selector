@@ -30,9 +30,6 @@ You can install `napari-features-selector` via [pip]:
 
 
 
-To install latest development version :
-
-    pip install git+https://github.com/kumar-sanjeeev/napari-features-selector.git
 
 
 ## Contributing
