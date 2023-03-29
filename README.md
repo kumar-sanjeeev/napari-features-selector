@@ -7,7 +7,8 @@
 [![codecov](https://codecov.io/gh/kumar-sanjeeev/napari-features-selector/branch/main/graph/badge.svg)](https://codecov.io/gh/kumar-sanjeeev/napari-features-selector)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-features-selector)](https://napari-hub.org/plugins/napari-features-selector)
 
-A lightweight widget for features selection.
+
+An interactive plugin that enables users to choose the important/relevant features from a set of multiple features. These selected features can then be applied to various tasks like object detection, segmentation, classification, among others.
 
 ----------------------------------
 
